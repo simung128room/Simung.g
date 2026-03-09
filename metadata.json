@@ -1,0 +1,5 @@
+{
+  "name": "Grading & Scheduling System",
+  "description": "A responsive web app for teachers to grade and schedule students, with CSV import/export and Firebase authentication.",
+  "requestFramePermissions": []
+}
